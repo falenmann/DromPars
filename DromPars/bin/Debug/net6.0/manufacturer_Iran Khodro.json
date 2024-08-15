@@ -1,0 +1,29 @@
+﻿{
+  "Make": "Iran Khodro",
+  "Models": [
+    {
+      "Model": "Dena",
+      "Generations": [
+        "04.2011 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Runna",
+      "Generations": [
+        "03.2009 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Samand",
+      "Generations": [
+        "01.2003 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Tara",
+      "Generations": [
+        "02.2020 -  1 поколение"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿{
+  "Make": "ORA",
+  "Models": [
+    {
+      "Model": "03",
+      "Generations": [
+        "Р 07.2020 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Ballet Cat",
+      "Generations": [
+        "11.2021 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Black Cat",
+      "Generations": [
+        "04.2019 - 11.2022  1 поколение"
+      ]
+    },
+    {
+      "Model": "Good Cat",
+      "Generations": [
+        "07.2020 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Lightning Cat",
+      "Generations": [
+        "09.2021 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Mecha Dragon",
+      "Generations": [
+        "11.2021 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "White Cat",
+      "Generations": [
+        "07.2020 - 03.2022  1 поколение"
+      ]
+    }
+  ]
+}

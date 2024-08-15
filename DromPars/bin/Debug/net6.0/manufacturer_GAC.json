@@ -1,0 +1,295 @@
+﻿{
+  "Make": "GAC",
+  "Models": [
+    {
+      "Model": "Aion Hyper GT",
+      "Generations": [
+        "12.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Aion Hyper HT",
+      "Generations": [
+        "10.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Aion Hyper SSR",
+      "Generations": [
+        "09.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Aion LX",
+      "Generations": [
+        "04.2019 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Aion LX Plus",
+      "Generations": [
+        "04.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Aion S",
+      "Generations": [
+        "11.2018 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Aion S Plus",
+      "Generations": [
+        "04.2021 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Aion V",
+      "Generations": [
+        "05.2020 - 09.2021  1 поколение"
+      ]
+    },
+    {
+      "Model": "Aion V Plus",
+      "Generations": [
+        "09.2021 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Aion Y",
+      "Generations": [
+        "04.2021 - 12.2022  1 поколение"
+      ]
+    },
+    {
+      "Model": "Aion Y Plus",
+      "Generations": [
+        "09.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "EA6",
+      "Generations": [
+        "03.2021 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "GN8",
+      "Generations": [
+        "Р 04.2020 - 12.2023  1 поколение"
+      ]
+    },
+    {
+      "Model": "GS3",
+      "Generations": [
+        "Р 03.2023 -  2 поколение",
+        "03.2023 -  2 поколение",
+        "04.2017 - 03.2023  1 поколение"
+      ]
+    },
+    {
+      "Model": "GS5",
+      "Generations": [
+        "Р 05.2018 - 06.2024  1 поколение"
+      ]
+    },
+    {
+      "Model": "GS8",
+      "Generations": [
+        "Р 07.2023 -  2 поколение",
+        "Р 04.2016 - 12.2023  1 поколение"
+      ]
+    },
+    {
+      "Model": "iA5",
+      "Generations": [
+        "03.2022 -  1 поколение, рестайлинг",
+        "04.2019 - 03.2022  1 поколение"
+      ]
+    },
+    {
+      "Model": "M8",
+      "Generations": [
+        "Р 02.2024 -  2 поколение",
+        "08.2022 -  2 поколение",
+        "09.2020 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi",
+      "Generations": [
+        "04.2011 - 12.2012  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi E8",
+      "Generations": [
+        "08.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi E9",
+      "Generations": [
+        "04.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi Emkoo",
+      "Generations": [
+        "04.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi Empow",
+      "Generations": [
+        "04.2021 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi ES9 PHEV",
+      "Generations": [
+        "08.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi GA3",
+      "Generations": [
+        "04.2013 - 12.2016  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi GA3S",
+      "Generations": [
+        "04.2014 - 12.2019  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi GA4",
+      "Generations": [
+        "01.2018 - 12.2021  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi GA4 Plus",
+      "Generations": [
+        "04.2021 - 08.2023  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi GA5",
+      "Generations": [
+        "11.2012 - 12.2018  1 поколение, рестайлинг"
+      ]
+    },
+    {
+      "Model": "Trumpchi GA6",
+      "Generations": [
+        "08.2019 - 11.2023  2 поколение",
+        "11.2014 - 08.2019  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi GA8",
+      "Generations": [
+        "06.2020 - 12.2023  1 поколение, рестайлинг",
+        "04.2016 - 06.2020  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi GE3",
+      "Generations": [
+        "01.2017 - 12.2020  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi GM6",
+      "Generations": [
+        "11.2018 - 09.2020  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi GM8",
+      "Generations": [
+        "11.2017 - 06.2021  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi GS3 Power",
+      "Generations": [
+        "04.2020 - 03.2023  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi GS4",
+      "Generations": [
+        "09.2020 -  2 поколение, рестайлинг",
+        "11.2019 - 09.2020  2 поколение",
+        "04.2018 - 12.2019  1 поколение, рестайлинг",
+        "04.2015 - 09.2018  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi GS4 Coupe",
+      "Generations": [
+        "09.2019 - 12.2023  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi GS4 Plus",
+      "Generations": [
+        "04.2021 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi GS5",
+      "Generations": [
+        "10.2018 - 12.2021  2 поколение",
+        "04.2011 - 12.2014  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi GS5 Super",
+      "Generations": [
+        "04.2014 - 12.2017  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi GS7",
+      "Generations": [
+        "01.2017 - 12.2020  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi GS8",
+      "Generations": [
+        "12.2021 -  2 поколение",
+        "04.2019 - 11.2021  1 поколение, рестайлинг",
+        "04.2016 - 10.2019  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi GS8S",
+      "Generations": [
+        "04.2020 - 11.2021  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi M6",
+      "Generations": [
+        "09.2020 - 05.2021  1 поколение"
+      ]
+    },
+    {
+      "Model": "Trumpchi M6 Pro",
+      "Generations": [
+        "04.2021 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Way",
+      "Generations": [
+        "Р 03.2016 - 03.2020  1 поколение"
+      ]
+    }
+  ]
+}

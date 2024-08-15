@@ -1,0 +1,29 @@
+﻿{
+  "Make": "Weltmeister",
+  "Models": [
+    {
+      "Model": "E5",
+      "Generations": [
+        "08.2021 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "EX5",
+      "Generations": [
+        "05.2018 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "EX5-Z",
+      "Generations": [
+        "05.2020 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "W6",
+      "Generations": [
+        "12.2020 -  1 поколение"
+      ]
+    }
+  ]
+}

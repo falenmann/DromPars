@@ -1,0 +1,41 @@
+﻿{
+  "Make": "Evolute",
+  "Models": [
+    {
+      "Model": "i-Jet",
+      "Generations": [
+        "Р 08.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "i-Joy",
+      "Generations": [
+        "Р 08.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "i-Pro",
+      "Generations": [
+        "Р 08.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "i-Sky",
+      "Generations": [
+        "Р 03.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "i-Space",
+      "Generations": [
+        "Р 12.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "i-Van",
+      "Generations": [
+        "Р 08.2022 -  1 поколение"
+      ]
+    }
+  ]
+}

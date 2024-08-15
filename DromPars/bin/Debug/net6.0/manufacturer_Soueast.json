@@ -1,0 +1,53 @@
+﻿{
+  "Make": "Soueast",
+  "Models": [
+    {
+      "Model": "A5",
+      "Generations": [
+        "08.2018 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "DX3",
+      "Generations": [
+        "09.2016 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "DX5",
+      "Generations": [
+        "09.2019 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "DX7",
+      "Generations": [
+        "11.2014 - 12.2018  1 поколение"
+      ]
+    },
+    {
+      "Model": "DX7 Prime",
+      "Generations": [
+        "04.2018 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "DX7 XingYue",
+      "Generations": [
+        "04.2020 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "DX8S",
+      "Generations": [
+        "04.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Lioncel",
+      "Generations": [
+        "Р 03.2005 - 11.2010  1 поколение"
+      ]
+    }
+  ]
+}

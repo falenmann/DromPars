@@ -1,0 +1,17 @@
+﻿{
+  "Make": "TATA",
+  "Models": [
+    {
+      "Model": "Telcoline",
+      "Generations": [
+        "08.2002 -  1 поколение, рестайлинг"
+      ]
+    },
+    {
+      "Model": "Xenon",
+      "Generations": [
+        "12.2006 -  1 поколение"
+      ]
+    }
+  ]
+}

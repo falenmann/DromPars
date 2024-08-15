@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Venucia",
+  "Models": [
+    {
+      "Model": "D60 Plus",
+      "Generations": [
+        "03.2021 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "V-Online",
+      "Generations": [
+        "08.2021 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "V-Online DD-i",
+      "Generations": [
+        "08.2021 -  1 поколение"
+      ]
+    }
+  ]
+}

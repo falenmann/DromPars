@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Aiways",
+  "Models": [
+    {
+      "Model": "U5",
+      "Generations": [
+        "04.2019 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "U6",
+      "Generations": [
+        "06.2021 -  1 поколение"
+      ]
+    }
+  ]
+}

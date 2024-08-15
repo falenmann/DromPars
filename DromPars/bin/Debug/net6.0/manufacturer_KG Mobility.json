@@ -1,0 +1,66 @@
+﻿{
+  "Make": "KG Mobility",
+  "Models": [
+    {
+      "Model": "Korando",
+      "Generations": [
+        "03.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Musso",
+      "Generations": [
+        "03.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Musso Grand",
+      "Generations": [
+        "03.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Rexton",
+      "Generations": [
+        "03.2023 -  1 поколение",
+        "03.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Rexton Sports",
+      "Generations": [
+        "05.2023 -  2 поколение, рестайлинг"
+      ]
+    },
+    {
+      "Model": "Rexton Sports Khan",
+      "Generations": [
+        "03.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Tivoli",
+      "Generations": [
+        "03.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Torres",
+      "Generations": [
+        "EVX 03.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Torres EVX",
+      "Generations": [
+        "03.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "XLV",
+      "Generations": [
+        "03.2023 -  1 поколение"
+      ]
+    }
+  ]
+}

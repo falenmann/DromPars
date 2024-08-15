@@ -1,0 +1,29 @@
+﻿{
+  "Make": "Rising Auto",
+  "Models": [
+    {
+      "Model": "ER6",
+      "Generations": [
+        "08.2020 - 11.2022  1 поколение"
+      ]
+    },
+    {
+      "Model": "F7",
+      "Generations": [
+        "02.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Marvel R",
+      "Generations": [
+        "11.2020 - 11.2022  1 поколение"
+      ]
+    },
+    {
+      "Model": "R7",
+      "Generations": [
+        "04.2022 -  1 поколение"
+      ]
+    }
+  ]
+}

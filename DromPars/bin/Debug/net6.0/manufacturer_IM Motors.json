@@ -1,0 +1,17 @@
+﻿{
+  "Make": "IM Motors",
+  "Models": [
+    {
+      "Model": "L7",
+      "Generations": [
+        "02.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "LS7",
+      "Generations": [
+        "04.2023 -  1 поколение"
+      ]
+    }
+  ]
+}

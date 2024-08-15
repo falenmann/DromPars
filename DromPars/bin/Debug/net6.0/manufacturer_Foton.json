@@ -1,0 +1,82 @@
+﻿{
+  "Make": "Foton",
+  "Models": [
+    {
+      "Model": "Conqueror 3",
+      "Generations": [
+        "03.2020 -  "
+      ]
+    },
+    {
+      "Model": "Conqueror 5",
+      "Generations": [
+        "02.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Conqueror 7",
+      "Generations": [
+        "03.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Conqueror Plus",
+      "Generations": [
+        "12.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Mars 7",
+      "Generations": [
+        "04.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Mars 9",
+      "Generations": [
+        "04.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Sauvana",
+      "Generations": [
+        "Р 11.2014 - 10.2020  1 поколение",
+        "11.2014 - 10.2020  1 поколение"
+      ]
+    },
+    {
+      "Model": "Tunland",
+      "Generations": [
+        "Р 03.2012 - 11.2019  1 поколение",
+        "05.2018 -  1 поколение, рестайлинг"
+      ]
+    },
+    {
+      "Model": "Tunland F9",
+      "Generations": [
+        "04.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Tunland G7",
+      "Generations": [
+        "Р 03.2023 -  1 поколение",
+        "06.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Tunland G9",
+      "Generations": [
+        "06.2023 -  1 поколение, рестайлинг",
+        "03.2021 - 06.2023  1 поколение"
+      ]
+    },
+    {
+      "Model": "View",
+      "Generations": [
+        "Р 03.2014 - 10.2018  1 поколение",
+        "03.2014 -  1 поколение"
+      ]
+    }
+  ]
+}

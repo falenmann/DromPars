@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Jaecoo",
+  "Models": [
+    {
+      "Model": "J7",
+      "Generations": [
+        "Р 08.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "J8",
+      "Generations": [
+        "Р 04.2024 -  1 поколение"
+      ]
+    }
+  ]
+}

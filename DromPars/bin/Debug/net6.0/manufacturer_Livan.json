@@ -1,0 +1,35 @@
+﻿{
+  "Make": "Livan",
+  "Models": [
+    {
+      "Model": "7",
+      "Generations": [
+        "09.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "9",
+      "Generations": [
+        "06.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "S6 Pro",
+      "Generations": [
+        "Р 09.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "X3 Pro",
+      "Generations": [
+        "Р 05.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "X6 Pro",
+      "Generations": [
+        "Р 09.2023 -  1 поколение"
+      ]
+    }
+  ]
+}

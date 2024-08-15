@@ -1,0 +1,60 @@
+﻿{
+  "Make": "Hozon",
+  "Models": [
+    {
+      "Model": "Neta Aya",
+      "Generations": [
+        "08.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Neta GT",
+      "Generations": [
+        "04.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Neta L",
+      "Generations": [
+        "04.2024 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Neta N01",
+      "Generations": [
+        "08.2019 - 12.2020  1 поколение, рестайлинг",
+        "08.2018 - 07.2019  1 поколение"
+      ]
+    },
+    {
+      "Model": "Neta S",
+      "Generations": [
+        "04.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Neta U",
+      "Generations": [
+        "04.2019 - 09.2022  1 поколение"
+      ]
+    },
+    {
+      "Model": "Neta U-II",
+      "Generations": [
+        "10.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Neta V",
+      "Generations": [
+        "04.2020 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Neta X",
+      "Generations": [
+        "10.2023 -  1 поколение"
+      ]
+    }
+  ]
+}

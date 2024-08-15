@@ -1,0 +1,118 @@
+﻿{
+  "Make": "Wuling",
+  "Models": [
+    {
+      "Model": "Bingo",
+      "Generations": [
+        "04.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Fighting",
+      "Generations": [
+        "01.2021 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Hongguang",
+      "Generations": [
+        "09.2010 - 08.2018  1 поколение"
+      ]
+    },
+    {
+      "Model": "Hongguang Mini EV",
+      "Generations": [
+        "09.2022 -  1 поколение",
+        "04.2020 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Hongguang Plus",
+      "Generations": [
+        "09.2019 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Hongguang S",
+      "Generations": [
+        "09.2018 -  2 поколение",
+        "08.2013 - 09.2018  1 поколение"
+      ]
+    },
+    {
+      "Model": "Hongguang S Classic",
+      "Generations": [
+        "08.2018 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Hongguang S1",
+      "Generations": [
+        "04.2016 - 11.2017  1 поколение, рестайлинг",
+        "08.2015 - 04.2016  1 поколение"
+      ]
+    },
+    {
+      "Model": "Hongguang S3",
+      "Generations": [
+        "04.2017 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Hongguang V",
+      "Generations": [
+        "01.2019 -  2 поколение",
+        "01.2015 - 11.2018  1 поколение"
+      ]
+    },
+    {
+      "Model": "Jiachen",
+      "Generations": [
+        "01.2022 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Rongguang",
+      "Generations": [
+        "06.2008 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Rongguang S",
+      "Generations": [
+        "11.2013 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Starlight",
+      "Generations": [
+        "08.2023 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Sunshine",
+      "Generations": [
+        "04.2013 -  2 поколение, рестайлинг"
+      ]
+    },
+    {
+      "Model": "Victory",
+      "Generations": [
+        "08.2020 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Xingchi",
+      "Generations": [
+        "04.2021 -  1 поколение"
+      ]
+    },
+    {
+      "Model": "Zhengcheng",
+      "Generations": [
+        "08.2021 -  2 поколение",
+        "12.2014 - 12.2018  1 поколение"
+      ]
+    }
+  ]
+}
